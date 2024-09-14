@@ -1,0 +1,14 @@
+.login-img {
+  /* background-image: url("../images/login-bg.jpg"); */
+  /* background-image: url("../images/c2.jpg"); */
+  background-image: url("../images/fit3.jpg");
+  background-repeat: none;
+  background-size: cover;
+}
+.log {
+  background-color: rgb(95, 90, 90, 0.5);
+}
+.log-img {
+  height: 100%;
+  width: 100%;
+}

@@ -1,0 +1,81 @@
+/*
+
+Container 
+.container {
+  margin-top: 20px;
+}
+
+Form Styling 
+.paymentfrom {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.paymentfrom label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.paymentfrom input[type="text"],
+.paymentfrom input[type="email"],
+
+
+
+
+.paymentfrom input[type="submit"] {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.paymentfrom input[type="submit"]:hover {
+  background-color: blue;
+  border: black;
+}
+
+Card Styling 
+.card {
+  margin: 0 auto;
+  max-width: 500px;
+  border-radius: 8px;
+}
+
+.card-header {
+  font-weight: bold;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+
+
+
+
+ Responsive Design 
+@media (max-width: 768px) {
+  .paymentfrom {
+      padding: 15px;
+  }
+
+  .card {
+      margin: 20px;
+  }
+
+  
+}
+*/
